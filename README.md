@@ -1,4 +1,5 @@
-
+# EX 10 IMPLEMENTATION OF OPENING AND CLOSING
+## DATE:
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
 
@@ -35,7 +36,7 @@ from matplotlib import pyplot as plt
 ## Create the Text using cv2.putText
 ```
 # Read the color image
-input_image_path = 'kitty.jpg'
+input_image_path = 'Dhoni.jpg'
 color_image = cv2.imread(input_image_path)
 
 # Convert the color image to grayscale
@@ -95,17 +96,19 @@ plt.show()
 ## Output:
 ### Display the input Image
 
-![Screenshot 2024-04-17 160401](https://github.com/SHARAN-MJ/OPENING--AND-CLOSING/assets/119560305/bc0c5262-94ce-42b4-b8cc-9edc5376fb9e)
+
+![Untitled](https://github.com/kancharlaNarmadha/OPENING--AND-CLOSING/assets/119559316/c8ab8108-dd4a-4ec8-a421-463a2758065d)
 
 
 ### Display the result of Opening
 
-![Screenshot 2024-04-17 160406](https://github.com/SHARAN-MJ/OPENING--AND-CLOSING/assets/119560305/0e23f770-3b6a-42b0-85c9-9752be94260b)
+![Untitled](https://github.com/kancharlaNarmadha/OPENING--AND-CLOSING/assets/119559316/f7ed60fd-0830-4684-a1e8-bd626c8a8d22)
+
 
 
 ### Display the result of Closing
 
-![Screenshot 2024-04-17 160411](https://github.com/SHARAN-MJ/OPENING--AND-CLOSING/assets/119560305/dc9eeb3d-ef4c-4f66-a902-d43fa8694e44)
+![Untitled](https://github.com/kancharlaNarmadha/OPENING--AND-CLOSING/assets/119559316/1b0d33bd-2a96-4915-b860-3b602878d054)
 
 
 ## Result
